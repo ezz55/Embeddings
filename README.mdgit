@@ -1,0 +1,19 @@
+# Embeddings
+initgit
+add
+README.mdgit
+commit
+-m
+first commit
+git
+branch
+-M
+maingit
+remote
+add
+origin
+https://github.com/ezz55/Embeddings.gitgit
+push
+-u
+origin
+main
