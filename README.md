@@ -1,2 +1,2 @@
 # Embeddings
-A small repository that tests how embeddings are used with Langchain
+A repository that uses long-chain to import data from a preexisting document and store them into a vector database using embeddings. Then finally, using LLMs to answer Questions from the document
